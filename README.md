@@ -30,7 +30,7 @@ Random Cloning Command
 
 - `git clone https://github.com/N3OBH4CKER11/NT-RANDOM
 
-- `cd N-RANDOM`
+- `cd NT-RANDOM`
 
 - `python nt-random_enc.py`
 
