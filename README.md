@@ -28,7 +28,7 @@ Random Cloning Command
 
 - `rm -rf NT-RANDOM`
 
-- `git clone https://github.com/Dccs-team/NXS-DCCS
+- `git clone https://github.com/N3OBH4CKER11/NT-RANDOM
 
 - `cd N-RANDOM`
 
