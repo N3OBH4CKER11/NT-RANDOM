@@ -14,25 +14,25 @@ Random Cloning Command
 # Installation ☯️
 
  
-- `pkg update`
+pkg update
 
-- `pkg upgrade`
+pkg upgrade
 
-- `pkg install git`
+pkg install git
 
-- `pkg install python`
+pkg install python
 
-- `pip install rich`
+pip install rich
 
-- `pip install bs4`
+pip install bs4
 
-- `rm -rf NT-RANDOM`
+rm -rf NT-RANDOM
 
-- `git clone https://github.com/N3OBH4CKER11/NT-RANDOM
+git clone https://github.com/N3OBH4CKER11/NT-RANDOM
 
-- `cd NT-RANDOM`
+cd NT-RANDOM
 
-- `python nt-random_enc.py`
+python nt-random_enc.py
 
 # Thank You For Your Support ❤️😘
 
